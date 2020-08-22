@@ -1,11 +1,4 @@
-### Hi there 👋
-### Sourabh Here
-
-<!--
-**sourabhb77/sourabhb77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
+### Hi Sourabh here 👋
 - 🔭 I’m currently working on My Algorithms Skills
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 👯 I’m looking to collaborate on React Native
